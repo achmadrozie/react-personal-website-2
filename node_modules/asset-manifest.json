@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4fca1e8.css",
+    "main.js": "/static/js/main.e231dac7.js",
+    "static/media/driver_prediction.png": "/static/media/driver_prediction.fb6ea9317ac0182a0bdc.png",
+    "static/media/TAM Innovation Campaign Square.png": "/static/media/TAM Innovation Campaign Square.85f9b77cd1dc6ccc71b5.png",
+    "static/media/churned_prediciton.png": "/static/media/churned_prediciton.052b9b4797683401a226.png",
+    "static/media/underated_skill.png": "/static/media/underated_skill.16238f06229ee16d5629.png",
+    "static/media/personal_web.png": "/static/media/personal_web.8fda42cbeef56f18d53c.png",
+    "static/media/ds_trend.png": "/static/media/ds_trend.67765c7074a0c06ae885.png",
+    "static/media/end_era_of_stack_overflow.png": "/static/media/end_era_of_stack_overflow.787c2aae05009c8c0199.png",
+    "static/media/me2.png": "/static/media/me2.5422143b5036225457a3.png",
+    "static/media/desty.jpeg": "/static/media/desty.247497065c74659b3837.jpeg",
+    "static/media/Achmad Rozie - CV.pdf": "/static/media/Achmad Rozie - CV.dce05f1d998d2a0b5a64.pdf",
+    "static/media/diandra.jpeg": "/static/media/diandra.1c5f4bf596508f106604.jpeg",
+    "index.html": "/index.html",
+    "main.e4fca1e8.css.map": "/static/css/main.e4fca1e8.css.map",
+    "main.e231dac7.js.map": "/static/js/main.e231dac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4fca1e8.css",
+    "static/js/main.e231dac7.js"
+  ]
+}
